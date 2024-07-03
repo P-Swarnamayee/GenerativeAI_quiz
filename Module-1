@@ -1,0 +1,36 @@
+1) Which statement accurately reflects the difference between the approaches in terms of number of parameters modified and type of data used?  
+  a) Fine tuning modifies all parameters using labeled, task specified data whereas parameter efficient fine tuning updates a few, new parameters also with labeled, task specific data.
+  b) Fine tuning and continuous pretraining both modify all parameters and use labeled, task specified data.
+  c) Parameter efficient fine tuning and soft prompting modify all parameters of the model using unlabeled data.
+  d) Soft prompting and continuous pretraining are both methods that require no modification to the original paramters of the model.
+
+2) What is prompt engineering in the context of LLM?
+  a) Adjusting hyper paramters of the model.
+  b) Adding more layers to the neural network.
+  c) Iteratively refining the ask to elicit a desired response.
+  d) Training the model on a large data set.
+
+3) What does in-context learning in LLM involve?
+  a) Conditioning the model with task specific instructions or demonstrations.
+  b) Training the model using reinforcement learning.
+  c) Pretraining the model on a specific domain.
+  d) Adding more layers to the model.
+
+4) What is hallucination in terms of LLMs?
+  a) Process by which the model visualizes and describes images in detail.
+  b) Phenomenon where the model generates factually incorrect information or unrealted content as if it were true.
+  c) A technique used to enhance model's performance on specific task.
+  d) The model's ability to generate imaginative and creative content.
+
+5) What is the role of temperature in decoding process of LLM?
+  a) To decide to which part of speech the next word should belong.
+  b) To adjust the sharpness of probability distribution over vocabulary whwn selecting the next word.
+  c) To determine the number of wordds to generate in a single decoding step.
+  d) To increase the accuracy of most likely word in vocabulary.
+
+Solution:
+1)a
+2)c
+3)a
+4)b
+5)b
