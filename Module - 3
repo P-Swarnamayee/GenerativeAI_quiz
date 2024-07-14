@@ -44,3 +44,10 @@ The model generates additional sentences to complete the paragraph.
 Explanation: Stop sequences, in the context of text generation, are special tokens or symbols used to signal the end of the generated text. 
             These sequences serve as markers for the model to halt its generation process. Common stop sequences include punctuation marks such as periods (.), question marks (?), and exclamation marks (!), 
             because they typically denote the end of sentences in natural language.
+
+Solutions:
+1. b)
+2. b)
+3. d)
+4. d)
+5. b)
